@@ -14,31 +14,43 @@ Kratos é o protagonista icônico da série *God of War*, desenvolvida pela Sant
 
 ## 1. **God of War (2005)**
 ![](https://upload.wikimedia.org/wikipedia/pt/5/53/God_of_War_2005_capa.png)
+</br>
 O primeiro *God of War* introduziu Kratos como um guerreiro espartano consumido pela sede de vingança contra Ares, o deus da guerra, que o enganou para matar sua própria família. A história de Kratos é marcada por sua dor, raiva e desejo de redenção. Ele busca os poderes dos deuses para derrotar Ares e, eventualmente, se torna o novo Deus da Guerra ao fim do jogo.
 
 - **Traços de Kratos**: Impulsivo, vingativo, consumido pela raiva.
 
 ## 2. **God of War II (2007)**
 ![](https://upload.wikimedia.org/wikipedia/pt/7/7e/God_of_War_2_capa.png)
+</br>
 Em *God of War II*, Kratos é traído por Zeus, o que intensifica ainda mais seu desejo de vingança. Ele busca os Titãs para ajudá-lo a derrotar o Olimpo. O jogo termina com Kratos subindo o Monte Olimpo ao lado dos Titãs, prometendo guerra contra os deuses.
 
 - **Traços de Kratos**: Implacável, em guerra com os deuses, cada vez mais poderoso.
 
 ## 3. **God of War III (2010)**
-![](https://dw0jruhdg6fis.cloudfront.net/producao/29087563/G/co25w7.jpg)
+![](https://upload.wikimedia.org/wikipedia/pt/6/6c/God_of_War_3_capa.png)
+</br>
 No encerramento da trilogia grega, *God of War III* segue Kratos enquanto ele destrói os deuses do Olimpo, um a um. Este é o ponto mais brutal e vingativo de sua jornada, onde ele se torna uma verdadeira força destrutiva, eliminando até mesmo aliados. No final, Kratos confronta Zeus e, após derrotá-lo, tenta se suicidar para acabar com seu tormento.
 
 - **Traços de Kratos**: Destrutivo, violento, buscando fim para seu sofrimento.
 
 ## 4. **God of War: Ascension (2013)**
 ![](https://upload.wikimedia.org/wikipedia/pt/3/38/God_of_War_Ascension_capa.png)
+</br>
 Este jogo serve como um prelúdio, revelando mais do passado de Kratos antes de sua aliança com Ares. Aqui, vemos um Kratos mais humano, ainda lutando com a culpa pela morte de sua família e tentando quebrar o pacto de sangue com o deus da guerra.
 
 - **Traços de Kratos**: Perdido, assombrado pelo passado, buscando liberdade.
 
 ## 5. **God of War (2018)**
 ![](https://upload.wikimedia.org/wikipedia/pt/8/82/God_of_War_2018_capa.png)
+</br>
 A grande reinvenção da série ocorre com *God of War* (2018), onde Kratos agora vive nos reinos da mitologia nórdica. Ele tem um filho, Atreus, e a história foca em sua relação com ele e na busca para espalhar as cinzas de sua esposa falecida. Aqui, Kratos é um homem muito mais contido, lutando para deixar seu passado de violência para trás e tentando ser um bom pai para Atreus. A história explora temas de paternidade, redenção e controle emocional.
+
+- **Traços de Kratos**: Maduro, reflexivo, tentando equilibrar sua natureza violenta com a responsabilidade de ser pai.
+
+## 6. **God of War: Ragnarök (2022)**
+![](https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png)
+</br>
+No capítulo mais recente, Kratos e Atreus enfrentam o iminente Ragnarök, o fim dos tempos na mitologia nórdica. Kratos continua a evoluir, agora mais sábio e protetor, embora ainda tenha que lutar contra seus antigos instintos violentos. A relação com Atreus é central para a narrativa, e Kratos precisa confiar em seu filho e aceitar o destino de ambos enquanto confrontam novos deuses e desafios.
 
 - **Traços de Kratos**: Protetor, sábio, aceitando seu destino.
 
