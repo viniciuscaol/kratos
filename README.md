@@ -1,4 +1,5 @@
-# Kratos: O Fantasma de Esparta
+<h1> Kratos: O Fantasma de Esparta </h1>
+
 ## Uma Imersão no Universo do Deus da Guerra
 
 ![Kratos](https://www.adrenaline.com.br/wp-content/uploads/2024/05/God-of-War-Ragnarok-e-confirmado-para-PC-912x569.jpg)
