@@ -125,7 +125,7 @@ Kratos é conhecido por empunhar armas poderosas ao longo de sua jornada, cada u
 - **Significado**: O escudo representa o papel de protetor que Kratos assume como pai de Atreus.
 
 ## 11. **Lança Draupnir (Draupnir Spear)**
-![Lança Draupnir](https://www.phferroarte.com.br/wp-content/uploads/sites/4540/2024/06/061DA247-DA1E-4DFE-AFA4-A5A46D6144BC.jpeg)
+![Lança Draupnir](https://theswordstall.co.uk/cdn/shop/files/God-Of-War-Hand-Forged-Draupnir-Spear.jpg)
 - **Descrição**: Introduzida em *God of War: Ragnarök* (2022), a Lança Draupnir é uma arma mágica forjada a partir do anel Draupnir e pode se multiplicar para criar inúmeras lanças.
 - **Habilidade Especial**: Cria várias cópias da lança que explodem, permitindo ataques à distância e controle de área.
 - **Significado**: A lança simboliza o planejamento e a preparação de Kratos para os desafios vindouros, refletindo seu crescimento como guerreiro e estrategista.
